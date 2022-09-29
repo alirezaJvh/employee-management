@@ -1,0 +1,3 @@
+[submodule "employee-front"]
+	path = employee-front
+	url = https://github.com/alirezaJvh/employee-front.git
